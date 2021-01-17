@@ -1,0 +1,4 @@
+D:\Repositories\csharp-sdk\Intrinio.SDK\obj\Debug\net5.0\Intrinio.SDK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\csharp-sdk\Intrinio.SDK\obj\Debug\net5.0\Intrinio.SDK.AssemblyInfoInputs.cache
+D:\Repositories\csharp-sdk\Intrinio.SDK\obj\Debug\net5.0\Intrinio.SDK.AssemblyInfo.cs
+D:\Repositories\csharp-sdk\Intrinio.SDK\obj\Debug\net5.0\Intrinio.SDK.csproj.CoreCompileInputs.cache
